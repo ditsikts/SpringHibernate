@@ -1,0 +1,17 @@
+com\ditsikts\springhibernate\dao\TrainerDao.class
+com\ditsikts\springhibernate\security\CustomBasicAuthenticationEntryPoint.class
+com\ditsikts\springhibernate\service\TrainerService.class
+com\ditsikts\springhibernate\config\HibernateConfiguration.class
+com\ditsikts\springhibernate\controller\TrainersApiController.class
+com\ditsikts\springhibernate\controller\HomeController.class
+com\ditsikts\springhibernate\service\TrainerServiceImpl.class
+com\ditsikts\springhibernate\config\CORSFilter.class
+com\ditsikts\springhibernate\entities\Trainer.class
+com\ditsikts\springhibernate\security\SecurityWebApplicationInitializer.class
+com\ditsikts\springhibernate\controller\TrainersController.class
+com\ditsikts\springhibernate\dao\TrainerDaoImpl.class
+com\ditsikts\springhibernate\config\SpringHibernateInitializer.class
+com\ditsikts\springhibernate\entities\Course.class
+com\ditsikts\springhibernate\config\SpringHibernateConfig.class
+com\ditsikts\springhibernate\dao\AbstractDao.class
+com\ditsikts\springhibernate\security\SecurityConfiguration.class

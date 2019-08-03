@@ -1,0 +1,17 @@
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\dao\AbstractDao.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\entities\Trainer.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\config\SpringHibernateInitializer.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\config\HibernateConfiguration.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\dao\TrainerDao.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\config\SpringHibernateConfig.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\controller\HomeController.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\service\TrainerServiceImpl.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\config\CORSFilter.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\controller\TrainersController.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\service\TrainerService.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\security\SecurityConfiguration.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\security\SecurityWebApplicationInitializer.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\dao\TrainerDaoImpl.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\entities\Course.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\security\CustomBasicAuthenticationEntryPoint.java
+C:\Users\Dimitris\Documents\NetBeansProjects\SpringHibernate\src\main\java\com\ditsikts\springhibernate\controller\TrainersApiController.java
